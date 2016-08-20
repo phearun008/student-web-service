@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: pp-student-web-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PHEARUN
+Implementation-Vendor-Id: student
+Build-Jdk: 1.8.0_11
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
